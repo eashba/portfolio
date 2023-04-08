@@ -4,9 +4,6 @@ export default {
         "./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",
     ], theme: {
-        fontFamily: {
-            'fancy': ['Playfair Display'],
-        },
         container: {
             center: true,
         },
