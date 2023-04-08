@@ -1,6 +1,3 @@
-import eLogo from "./assets/e-white.svg";
-import planetsImage from "./assets/planets-image.png";
-import namesImage from "./assets/names-image.png";
 import "./App.css";
 import { StyledLink } from "./components/styled-link";
 import { ContentDateBlock } from "./components/content-date-block";
@@ -9,11 +6,14 @@ import { ProjectBlock } from "./components/project-block";
 import { Footer } from "./components/footer";
 import "@fontsource/inter";
 
+// @ts-ignore
+import { planetsImage, namesImage, eWhite } from "./assets";
+
 function App() {
     return (
         <div className="max-w-lg px-12 pt-48 m-auto">
             <div className="w-10 avatar">
-                <img src={eLogo} />
+                <img src={eWhite} />
             </div>
 
             <div className="mt-3">Evan Ashba - Software Engineer</div>
