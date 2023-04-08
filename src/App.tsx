@@ -5,6 +5,9 @@ import { SectionHeader } from "./components/section-header";
 import { ProjectBlock } from "./components/project-block";
 import { Footer } from "./components/footer";
 import "@fontsource/inter";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 // @ts-ignore
 import { planetsImage, namesImage, eWhite } from "./assets";
