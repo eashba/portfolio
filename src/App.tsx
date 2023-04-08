@@ -79,7 +79,6 @@ function App() {
                 title="planets-generator"
                 description="Stylized 3D procedural planet generation with three.js and custom GLSL shaders."
                 url="https://planets-generator.vercel.app/"
-                githubUrl="https://github.com/eashba/planets-generator"
             ></ProjectBlock>
 
             <ProjectBlock
@@ -87,7 +86,6 @@ function App() {
                 title="markovs-names"
                 description="A procedural name generator that generates new, original names based on existing datasets. "
                 url="https://markovs-names.vercel.app/"
-                githubUrl="https://github.com/eashba/markovs-names"
             ></ProjectBlock>
 
             <Footer />

@@ -5,7 +5,6 @@ export interface ProjectBlockProps {
     title: string;
     description: string;
     url: string;
-    githubUrl?: string;
 }
 
 export const ProjectBlock = ({ image, title, description, url, githubUrl }: ProjectBlockProps) => {
@@ -25,13 +24,8 @@ export const ProjectBlock = ({ image, title, description, url, githubUrl }: Proj
             <div className="w-full">
                 <div className="flex items-center justify-between w-full">
                     <div>{title}</div>
-                    {githubUrl ? (
-                        <StyledLink url={githubUrl} additionalStyles="text-xs">
-                            github ↗
-                        </StyledLink>
-                    ) : null}
                 </div>
-                <p className="max-w-xs mt-1 text-sm opacity-60">{description}</p>
+                <p className="max-w-xs mt-1 text-xs opacity-60">{description}</p>
             </div>
         </a>
     );
