@@ -7,7 +7,7 @@ export interface ProjectBlockProps {
     url: string;
 }
 
-export const ProjectBlock = ({ image, title, description, url, githubUrl }: ProjectBlockProps) => {
+export const ProjectBlock = ({ image, title, description, url }: ProjectBlockProps) => {
     return (
         <a
             href={url}
