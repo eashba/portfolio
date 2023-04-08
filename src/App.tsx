@@ -67,7 +67,7 @@ function App() {
                 titleElement={<p>Kettering University</p>}
                 description="Flint, MI"
                 secondaryDescription="BS in Computer Science"
-                dateRange="2016 - 2021"
+                dateRange="2016 - 2020"
             />
 
             <SectionHeader text="Personal Work" />
