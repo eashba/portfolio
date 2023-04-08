@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import "./App.css";
 import { StyledLink } from "./components/styled-link";
 import { ContentDateBlock } from "./components/content-date-block";
@@ -90,6 +91,7 @@ function App() {
             ></ProjectBlock>
 
             <Footer />
+            <Analytics />
         </div>
     );
 }
