@@ -7,12 +7,12 @@ import { Footer } from "./components/footer";
 import "@fontsource/inter";
 import { inject } from "@vercel/analytics";
 
-inject();
 
 // @ts-ignore
 import { planetsImage, namesImage, eWhite } from "./assets";
 
 function App() {
+    inject();
     return (
         <div className="max-w-lg px-12 pt-48 m-auto">
             <div className="w-10 avatar">
