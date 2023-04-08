@@ -21,7 +21,7 @@ function App() {
             <div className="flex justify-start mt-1 space-x-10 text-xs">
                 <StyledLink url="https://www.linkedin.com/in/evan-ashba/">linkedin</StyledLink>
                 <StyledLink url="https://github.com/eashba">github</StyledLink>
-                <StyledLink url="mailto:contact@eashba.dev">contact@eashba.com</StyledLink>
+                <StyledLink url="mailto:contact@eashba.dev">contact@eashba.dev</StyledLink>
             </div>
 
             <SectionHeader text="About" />
