@@ -12,7 +12,7 @@ import { planetsImage, namesImage, eWhite } from "./assets";
 
 function App() {
     return (
-        <div className="max-w-lg px-12 pt-48 m-auto">
+        <div className="max-w-lg px-12 pt-48 m-auto" >
             <div className="w-10 avatar">
                 <img src={eWhite} />
             </div>
@@ -83,9 +83,9 @@ function App() {
 
             <ProjectBlock
                 image={namesImage}
-                title="markovs-names"
+                title="markov-names"
                 description="A procedural name generator that generates new, original names based on existing datasets. "
-                url="https://markovs-names.vercel.app/"
+                url="https://markov-names.vercel.app/"
             ></ProjectBlock>
 
             <Footer />
