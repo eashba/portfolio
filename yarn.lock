@@ -320,6 +320,21 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.17.15.tgz#c2e737f3a201ebff8e2ac2b8e9f246b397ad19b8"
   integrity sha512-DjDa9ywLUUmjhV2Y9wUTIF+1XsmuFGvZoCmOWkli1XcNAh5t25cc7fgsCx4Zi/Uurep3TTLyDiKATgGEg61pkA==
 
+"@fontsource-variable/crimson-pro@^5.0.18":
+  version "5.0.18"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/crimson-pro/-/crimson-pro-5.0.18.tgz#fdc67aab5935a425c139e8462e1da81a639293df"
+  integrity sha512-puT0kWEMHPDpwJCsk+AY6MMSJox8nY20iPVONqA/5vJEjb7/9r+g1WHQ1LcUGmYtiut/C5XipthH8IDSRnCgNw==
+
+"@fontsource-variable/open-sans@^5.0.28":
+  version "5.0.28"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/open-sans/-/open-sans-5.0.28.tgz#4620c099bf0ed6251d1300eb925cb363da4dbf52"
+  integrity sha512-PYfH6e+Jm8N5DRRAEOGneQx3ObnyNgAJ9WTbw7w84tSEmvk+ypo1kUslF2WGkgaygU2uN7wwAAPVnO7YYpipzg==
+
+"@fontsource/ibm-plex-mono@^5.0.12":
+  version "5.0.12"
+  resolved "https://registry.yarnpkg.com/@fontsource/ibm-plex-mono/-/ibm-plex-mono-5.0.12.tgz#6f9cbea8142a2cf05df178720aa2b561d898a4d3"
+  integrity sha512-RamYYYUQk7FX/yVbQqGxyMR+AfX5hfCZsLo5pr5BBUBNf2i3N4AjJ4AWfieqLx1Mdwt2ukzXYojlf9J0G/gaZQ==
+
 "@fontsource/inter@^4.5.15":
   version "4.5.15"
   resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.15.tgz#eed1873d68755d3b52d6fcfcfa3493118430a512"
@@ -329,6 +344,16 @@
   version "4.5.14"
   resolved "https://registry.yarnpkg.com/@fontsource/open-sans/-/open-sans-4.5.14.tgz#b3e1665c0b3fdfc1f030ded2843749e3cf3a5900"
   integrity sha512-mBXIIETBlW8q/ocuUN0hyGow2iuf75hQEHQt8R/RJ/HcphVbLg8KB7pHYGbFGDqs75W+SWvTC7JkVeAjT65BuQ==
+
+"@fontsource/open-sauce-one@^5.0.7":
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/@fontsource/open-sauce-one/-/open-sauce-one-5.0.7.tgz#23eb660e5bef629aff45898ec26ab7700c42ed41"
+  integrity sha512-vvA/UmZ3ZBBFNAeQlZ+vHQhsPDicIxywelzWYFcCmmkLpvuOxmjKcKVMK4oogvOhsKld2Ff+sfO5b6dP4TzlPg==
+
+"@fontsource/poppins@^5.0.12":
+  version "5.0.12"
+  resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-5.0.12.tgz#f1e53d2a6b987cf7f186114f9711aba0c66d3848"
+  integrity sha512-0qzBxtIJLh82iMJ9pCXKYwGs1zyS+jyUmwVJ59+JdYnEaFVkDsxVOk9yDWfVOs14ALUneodU2m5YSGma6dCYCw==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"

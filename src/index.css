@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 :root {
-    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-family: "Open Sauce One", system-ui, Avenir, Helvetica, Arial,
+        sans-serif;
     line-height: 1.625;
+    font-size: 1.3rem;
 }

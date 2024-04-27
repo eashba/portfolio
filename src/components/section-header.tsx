@@ -3,5 +3,5 @@ export interface SectionHeaderProps {
 }
 
 export const SectionHeader = ({ text }: SectionHeaderProps) => {
-    return <div className="opacity-60 mt-14 ">{text}</div>;
+    return <div className="mt-16 font-bold opacity-60 ">{text}</div>;
 };

@@ -9,8 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource-variable/crimson-pro": "^5.0.18",
+    "@fontsource-variable/open-sans": "^5.0.28",
+    "@fontsource/ibm-plex-mono": "^5.0.12",
     "@fontsource/inter": "^4.5.15",
     "@fontsource/open-sans": "^4.5.14",
+    "@fontsource/open-sauce-one": "^5.0.7",
+    "@fontsource/poppins": "^5.0.12",
     "@vercel/analytics": "^0.1.11",
     "daisyui": "^2.51.5",
     "react": "^18.2.0",
