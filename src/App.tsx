@@ -11,7 +11,7 @@ import { planetsImage, namesImage, eWhite } from "./assets";
 
 function App() {
     return (
-        <div className="max-w-lg px-12 m-auto mt-16">
+        <div className="max-w-lg px-12 m-auto mt-32">
             <div className="flex flex-col gap-1">
                 <div className="text-xl font-bold">Evan Ashba</div>
                 <div className="text-xs">Senior Software Engineer</div>
